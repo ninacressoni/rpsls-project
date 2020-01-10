@@ -1,5 +1,5 @@
 # rpsls-project
-Rock Paper Scissors Lizard Spock
+Python Rock Paper Scissors Lizard Spock
 
 This is a Python program that executes a Joken-po game.
 Rock, Paper, Scissors, Lizard, Spock is a game of chance that expands. 
